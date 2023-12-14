@@ -1,23 +1,23 @@
 # Challenge-1-Code-Refactoring
 ## Description
+This excersize was meant to show my skills in refactoring code in order to meet a certain set of standards.
 
-This project Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- My motivation was applying everything that I learned and understand HTML and CSS.
-- Why did you build this project?
-- I consolidated CSS selectors and properties, organized them to follow the semantic structure of the HTML elements.
-- What did you learn?
+- I reworked the CSS to make it more efficient by consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements.
+- I adjusted HTLM semantic to CSS, made sure that all links are functioning correctly and met the requirements of web accessibility.
+- 
 
 ## Installation
 
 N/A
 
 ## Usage
+
 <a href="https://anicabarrios.github.io/Challenge-1-Code-Refactoring/">Live link</a>
 
 ```md
 ![alt text](assets/images/horiseon1.png)
-```
+ ```
+
 
 ## Credits
 
