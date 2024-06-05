@@ -1,4 +1,4 @@
-# Challenge-1-Code-Refactoring
+# Code-Refactoring
 ## Description
 This excersize was meant to show my skills in refactoring code in order to meet a certain set of standards.
 
